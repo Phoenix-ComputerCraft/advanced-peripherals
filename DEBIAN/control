@@ -1,0 +1,8 @@
+Package: advanced-peripherals
+Version: 1.0-1
+Section: kernel
+Priority: optional
+Architecture: phoenix
+Maintainer: JackMacWindows <jackmacwindowslinux@gmail.com>
+Description: Advanced Peripherals drivers
+ Provides drivers for Advanced Peripherals devices.
